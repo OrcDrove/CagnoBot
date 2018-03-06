@@ -1,0 +1,14 @@
+{
+  "name": "cagnobotv2",
+  "version": "2.0.0",
+  "description": "CagnoBot V2 By Jonathan OrcDrove",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jonathan OrcDrove",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.2"
+  }
+}
